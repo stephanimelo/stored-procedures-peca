@@ -23,4 +23,4 @@ Script completo: [stored_procedure_inserir_5000_pecas.sql](stored_procedure_inse
 
 ### Resultado
 
-<img src="resultado_5000_pecas.PNG" width="300"/>
+<img src="resultado_5000_pecas.PNG" width="500"/>
